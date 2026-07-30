@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-AI 智能体可加载的技能包，用于提升日常开发效率。
+曾经看到一句话：迭代培养自己的 skill 比寻找别人的 skill 更加重要，因此我开始维护这个项目。
 
 ## 技能列表
 
